@@ -1,4 +1,4 @@
-use image:: ImageBuffer;
+use image::ImageBuffer;
 
 mod julia;
 
